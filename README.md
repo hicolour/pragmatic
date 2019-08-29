@@ -9,9 +9,10 @@ Key principles:
    
 The intent is to present various fp 
 
-  * aproaches Final Tagless, ZIO Environment, Free Monad 
-  * machinery (Cats, Scalz, Cats-effect, ZIO)  
-  * conrete Monads
-  * infrastructure (http4s, akka-http, doobie, slick)
+  * Aproaches Final Tagless, ZIO Environment, Free Monad 
+  * Machinery (Cats, Scalz, Cats-effect, ZIO)  
+  * Conrete Monads
+  * Infrastructure (http4s, akka-http, doobie, slick)
 
 and to use automated metrics collection (where possible to measure footprint) to be able to reason in longer perspective.
+
