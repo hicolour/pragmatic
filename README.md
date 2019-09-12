@@ -1,4 +1,23 @@
-# pragmatic-fp
+### Pragamtic Programmers Notes
+
+Some notes for blog post.
+
+
+#### pragmatic-architecture
+
+#### pragmatic-programming
+
+#### pragmatic-programming-fp
+
+#### pragmatic-programming-iperative
+
+
+
+
+
+
+
+
 Some sample of pragmatic fp aproach, wihout drama we recently observed in fp communities.
 
 On the end of the day FP-reach languges are just better tools (including libs & avalible toolset) - for a lot problems deveopers solves - but not for all. In many cases, modern imperative languages without like Go are just the right tool.  
@@ -13,7 +32,7 @@ Key principles:
    * Maintainbility 
    
 
-Languages to examine:
+Languagess samples:
  * Scala
  * Haskell 
  * ...
