@@ -9,7 +9,7 @@ Some notes for blog post.
 
 #### pragmatic-programming-fp
 
-#### pragmatic-programming-iperative
+#### pragmatic-programming-imperative
 
 
 
